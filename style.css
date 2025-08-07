@@ -87,12 +87,32 @@ p {
   color: #456882;
 }
 
+
 /* Contact */
 
 .text-center {
     text-align: center;
 }
 
+/* Contact */
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer {
+  background-color: #3282b8;
+}
+
+.social {
+  padding-right: 100px;
+}
+
+.cr {
+  padding-left: 100px;
+}
 
 /* social media pop up*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
